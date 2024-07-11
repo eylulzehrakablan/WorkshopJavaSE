@@ -16,7 +16,7 @@ import java.io.Serializable;
 
 public class StudentLombok  implements Serializable {
 
-    public static final Long serialVersionUID =1L;
+    public static final Long serialVersionUID = 1L;
 
     // Variables
     private String name;
